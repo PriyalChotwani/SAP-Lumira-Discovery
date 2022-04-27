@@ -26,20 +26,37 @@ Following are the questions that will be answered:
 
 ##### Question 1: Number of adults who are legally allowed to purchase alcoholic beverages
 The calculated dimension is created called as adults to include all individuals who are above 19 years old. A Line Chart is created which suggests that total number of adults in Canada in 2018 is approximately 30 million whereas the total population is close to 40 million approximately.
+<p align="center">
+ <img src= "Images/LumiraQ1.png">
+</p>
 
 ##### Question 2: How do alcohol purchasing preferences vary in Canada, over the last several years?
 To answer this question, a table is created which includes number of adults in each province in the respective years which is exported and then merged to Sales.csv file. The following line graph suggests that Canadian beer is preferred more than imported beer, while imported wine is preferred more than Canadian wine. The total beer preference has somewhat remained constant over the years, while the wine popularity in Canada has gradually increased throughout the years.
+<p align="center">
+ <img src= "Images/LumiraQ2_table.png">
+ <img src= "Images/LumiraQ2_graph.png">
+</p>
 
 ##### Question 3: How do alcohol purchasing preferences vary in Nova Scotia, over the last several years?
 The following line graph suggests that the preference towards Canadian wine over imported wine increased after 2016, while overall the popularity of wine has gradually increased. In case of beer, the same trend has been observed that the popularity of Canadian beer has increased over imported beer after 2016. Overall, the preference for beer has been decreasing gradually after 2009.
+<p align="center">
+ <img src= "Images/LumiraQ3.png">
+</p>
 
 ##### Question 4: How does alcohol preference differ between Nova Scotia and Canada over the last several years?
 The following graph suggests that while the popularity of Canadian beer has increased in Nova Scotia, it has gradually decreased in rest of Canada. The preference towards imported beers has somewhat remained constant in Canada, while it has decreased a lot in Nova Scotia after 2016. Overall, Per Capita Sales of Canadian beer is more than the imported beer. The Canadian wine is bought more by people over the years in Canada, while in Nova Scotia its preference has tremendously increased after 2016. In case of imported wines, its popularity has also been increasing continuously over the years both in Canada and Nova Scotia, but the trend is seen downward after 2017 in Nova Scotia.
 
 Overall, the Canadian beer is opted the most by Nova Scotians as compared to the rest of Canada, followed by imported wine. Interestingly after 2017, the Canadian wine gained popularity in Nova Scotia and surpassed the Per Capita Sales of the rest of Canada.
+<p align="center">
+ <img src= "Images/LumiraQ4.png">
+</p>
 
 ##### Question 5: What are the per Capita Sales of Canadian Products and Imported products in 2018 and how does it differ from 2008?
 Interestingly, the graphs depicts that the overall per capita sales have decreased in 2018 as compared to 2008. Canadian tastes have shifted over time, but beer remains the first choice for most of the people. Imported beers are preferred much less than Canadian beers in both the years. This may be contributed to the preference towards local taste. Although, the trend is opposite in case of wine as overall, imported wine has more popularity than Canadian wine.
+<p align="center">
+ <img src= "Images/LumiraQ5_2008.png">
+ <img src= "Images/LumiraQ5_2018.png">
+</p>
 
 ## Analysis and Critique of the Tool
 
