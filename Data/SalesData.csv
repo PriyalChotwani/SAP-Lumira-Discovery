@@ -1,0 +1,47 @@
+﻿"Value of sales of alcoholic beverages of liquor authorities and other retail outlets, by beverage type (x 1,000) c 1 2 3"
+"Frequency: Annual"
+"Table: 10-10-0011-01 (formerly CANSIM 183-0024)"
+"Release date: 2022-02-15"
+"Geography: Canada, Province or territory"
+""
+""
+
+,"Geography","Canada",,,,
+,"Value and volume","Value of sales",,,,
+"Type of beverage","Origin of Product","2016 / 2017","2017 / 2018","2018 / 2019","2019 / 2020","2020 / 2021"
+,,"Dollars",,,,
+"Total beverages","Total products","22,480,158","23,114,206","23,624,326","24,484,933","25,523,543"
+,"Canadian products 4","13,068,126","13,249,091","13,385,987","14,090,031","14,956,278"
+,"Import products 5","9,412,032","9,865,115","10,238,339","10,394,902","10,567,265"
+"Total spirits","Total products","5,263,360","5,495,020","5,663,187","6,005,690","6,483,685"
+,"Canadian products 4","2,638,062","2,647,731","2,659,224","2,817,167","2,978,026"
+,"Import products 5","2,625,298","2,847,289","3,003,963","3,188,523","3,505,659"
+"Total wines","Total products","7,187,143","7,449,400","7,464,446","7,849,533","8,017,749"
+,"Canadian products 4","2,225,308","2,280,258","2,283,901","2,452,355","2,561,095"
+,"Import products 5","4,961,835","5,169,142","5,180,545","5,397,178","5,456,654"
+"Total beers","Total products","9,125,151","9,200,599","9,381,815","9,323,387","9,190,604"
+,"Canadian products 4","7,575,558","7,632,325","7,599,454","7,764,019","7,847,908"
+,"Import products 5","1,549,593","1,568,274","1,782,361","1,559,368","1,342,696"
+"Total ciders, coolers, and other refreshment beverages","Total products","904,504","969,187","1,114,878","1,306,323","1,831,505"
+,"Canadian products 4","629,198","688,777","843,408","1,056,490","1,569,249"
+,"Import products 5","275,306","280,410","271,470","249,833","262,256"
+
+
+"Table Corrections:"
+Date,Note
+"2015-06-02","On 6 June 2015, the following variable has been corrected: volume of sales of "Wine coolers" for Ontario, 2006-2007 to 2013-2014 for "total products" and "Canadian products". Total volume of sales of "wine coolers" for Canada was not affected."
+"2021-04-30","On April 30th 2021, sales of beer in Quebec and Newfoundland and Labrador were corrected for the 2019/2020 reference year."
+
+
+
+Footnotes:
+1,"Data may not add to the total due to rounding."
+2,"Starting with reference year 2013/14, this table replaces table 183-0015."
+3,"On 6 June 2015, the following variable has been corrected: volume of sales of "Wine coolers" for Ontario, 2006-2007 to 2013-2014 for "total products" and "Canadian products". Total volume of sales of "wine coolers" for Canada was not affected."
+4,"Produced in Canada or blended with Canadian alcoholic beverages."
+5,"Imported in bottles, or in bulk for bottling by liquor authority."
+
+
+
+"How to cite: Statistics Canada. Table 10-10-0011-01  Value of sales of alcoholic beverages of liquor authorities and other retail outlets, by beverage type (x 1,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1010001101
